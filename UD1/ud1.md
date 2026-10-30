@@ -1,4 +1,4 @@
-# [!Volver al índice general](/README.md)
+# [Volver al índice general](/README.md)
 
 ---
 
